@@ -14,7 +14,7 @@
 ##### Клонируйте репозиторий в заранее созданную папку
 ```bash
 cd <folder_name>
-git clone https://github.com/Och1ta/test_br  
+git clone https://github.com/Och1ta/test_br.git  
 ```
 
 Запустите docker-compose с помощью команды:
