@@ -45,4 +45,17 @@ python manage.py migration
 python manage.py runserver
 ```
 
+#### Пример env-файла
+```bash
+SECRET_KEY=''
+DEBUG=True
+ALLOWED_HOSTS='127.0.0.1, localhost'
+DATABASES=postgres
+DB_NAME=postgres
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+DB_HOST=localhost
+DB_PORT=5432
+```
+
 ### Проект выполнил [Кабанов Антон](https://github.com/Och1ta)
